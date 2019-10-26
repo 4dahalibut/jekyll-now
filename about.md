@@ -4,13 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey there, I'm a software engineer focused on ML systems, currently working at DataRobot
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-Hello world
+My hobbies include rock climbing, chess, books, and salsa dancing. I like learning about the world, currently my interests are fairness in ML, ML for healthcare, and environmental advocacy work. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[heres my email](mailto:josh@enjoysailing.us)
