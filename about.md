@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Hey there, I'm a software engineer focused on ML systems, currently working at DataRobot
+Hey there, I'm a software engineer focused on software design of Machine Learning products. I currently work at DataRobot, an Automated Machine learning enterprise SAAS product. 
 
 ### More Information
 
-My hobbies include rock climbing, chess, books, and salsa dancing. I like learning about the world, currently my interests are fairness in ML, ML for healthcare, and environmental advocacy work. 
+Some of my interests are rock climbing, chess, [books](https://www.goodreads.com/user/show/13428134-josh-preuss), salsa dancing, and guitar. I like learning about the world. I'm currently on a quest to understand how I might push society one tiny bit towards a happy future.
 
-### Contact me
+### Contact Me
 
 [heres my email](mailto:josh@enjoysailing.us)
+[I may tweet](https://twitter.com/4dahalibut)
+
+### My Resume
