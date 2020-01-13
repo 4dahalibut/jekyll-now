@@ -12,7 +12,7 @@ Some of my interests are rock climbing, chess, [books](https://www.goodreads.com
 
 ### Contact Me
 
-[heres my email](mailto:josh@enjoysailing.us)
+[My email](mailto:josh@enjoysailing.us)
 [I may tweet](https://twitter.com/4dahalibut)
 
 ### My Resume

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Autoimmune diseases
+title: Autoimmune Diseases
 ---
 
 Autoimmune diseases are a category of illness, involving many different mechanisms and causes. The medicines we use to treat them work by interacting with your immune system in a few ways
