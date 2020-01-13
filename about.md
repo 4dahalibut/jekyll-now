@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Hey there, I'm a software engineer focused on software design of Machine Learning products. I currently work at DataRobot, an Automated Machine learning enterprise SAAS product. 
+[Me](images/josh.jpg)
+Hey there, I'm employed as a software engineer focused on software design of Machine Learning products. I currently work at DataRobot, an Automated Machine learning enterprise SAAS product. 
 
 ### More Information
 
@@ -13,6 +14,6 @@ Some of my interests are rock climbing, chess, [books](https://www.goodreads.com
 ### Contact Me
 
 [My email](mailto:josh@enjoysailing.us)
-[I may tweet](https://twitter.com/4dahalibut)
 
 ### My Resume
+[Resume](images/resume.pdf)

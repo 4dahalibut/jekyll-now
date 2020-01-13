@@ -3,6 +3,7 @@ layout: post
 title: The House
 ---
 
+![Cabin](/images/cabin.jpeg)
 The wind was blowing fast, it felt like nothing could stop its rush. The ragged wooden carriage slowly ground to a stop, it's metal wheels grinding their axles, and the tall black horse's breath was whisked away as it gruffly exhaled, worn from its final day of pulling. The husband looked down at his sextant and grinned, glancing upwards to thank the stars for safe guidance. Their longitude and latitude coordinates had been moving slowly closer to the coordinates written in the grant for the better part of two months now, and they finally matched perfectly. He opened the curtain that shielded the main cabin of the carriage, and whispered the news to his sleeping wife. She opened one eye, pointing it at him, and gave him a wry grin. It hadn't been such a bad journey after all.
 
 The husband stepped down from the driving seat and walked around the carriage. He reached for his wife's hand as she picked up the hem of her skirt and stepped towards the open back. She suddenly jumped off the trunk bed, inflating the skirt around her, and he caught her, moving her back against the woodwork, hugging her firmly with his head nestled in her neck. She felt as if the embrace would last forever.
