@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[Me](images/josh.jpg)
+![Me](images/josh.jpg)
 
 Hey there, I'm employed as a software engineer focused on software design of Machine Learning products. I currently work at DataRobot, an Automated Machine learning enterprise SAAS product. 
 
