@@ -2,6 +2,9 @@
 layout: post
 title: GOTV Initiatives
 ---
+
+![Blaise](/images/blaise.jpg)
+
 In terms of turnout, here are ten important things to harp on to get out the vote. According to a Republican wonk. In 2002. I have been going through the victory lab, and Blaise Hazelwood's name popped out of the conga-line of references to people in the book because the author says she can work 18(!) hour days in perpetuity. If somebody can do that they probably have something interesting to say. However, the only video of her on youtube had 6(!) views! That's some rare information! It comes from an event called the Wednesday Wake-up Breakfast, an event put on by the Leadership Institute [Check it out](https://www.leadershipinstitute.org/Training/school.cfm?schoolID=46352)
 
 It seemed like the cheesy filling of the presentation took place as a list of 10 ways to GOTV. GOTV is important because there aren't too many swing voters anymore. In 2002, Blaise said the number was 7% of all voters, and FiveThirtyEight gives a similar figure [here](https://fivethirtyeight.com/features/just-how-many-swing-voters-are-there/)
