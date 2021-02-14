@@ -15,10 +15,22 @@
 
 html {
   font-size: 100%;
+  margin: 0;
+  padding: 0;
 }
 
+canvas{
+position:fixed;
+left:0;
+top:0;
+z-index:-1;
+width:100%;
+height:100%;
+}
+
+
+
 body {
-	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -26,8 +38,10 @@ body {
 .container {
   margin: 0 auto;
   max-width: 740px;
-  padding: 0 10px;
+  padding: 3px 10px;
   width: 100%;
+  background-color: white;
+  opacity: .87;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -276,9 +290,11 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+  display: none;
 }
 
 footer {
+  display: none;
   padding: 20px 0;
   text-align: center;
 }
