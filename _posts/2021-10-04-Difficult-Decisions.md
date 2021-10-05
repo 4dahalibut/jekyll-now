@@ -18,6 +18,6 @@ Common instances of taking on risk, might be quitting a stable job, or betting o
 
 Common instances of accepting a painful truth, might be breaking up with a girlfriend, or taking a parent off of life support. These be violent. 
 
-Some difficult decisions involve continued commitment to the decision, while some involve taking a path that cannot be untread. Both can be hard. 
+Some difficult decisions involve continued commitment to the decision, while some involve taking a path that cannot be untread. Both be hard. 
 
 Difficult decisions are mainly difficult because you have to own the decision. Usually, if the choice is made for us, we would accept it fairly easily. 
