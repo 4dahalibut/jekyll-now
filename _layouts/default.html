@@ -124,7 +124,7 @@
       function animate() {
         requestAnimationFrame(animate);
 
-        uniforms["time"].value = performance.now() / 1000;
+        uniforms["time"].value = performance.now() / 5000;
 
         renderer.render(scene, camera);
       }
