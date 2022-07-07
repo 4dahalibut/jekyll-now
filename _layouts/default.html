@@ -38,7 +38,6 @@
     <script id="fragmentShader" type="x-shader/x-fragment">
 
       varying vec2 vUv;
-      uniform vec2[100] fish_seed;
 
       uniform float time;
       const int NUM_STEPS = 8;
@@ -151,21 +150,6 @@
       }
       
 
-      float isFish(vec2 coords) {
-        for (int i = 0; i < 100; i++) {
-          vec2 v1 = fish_seed[i];
-          v1.x = mod(v1.x + 10. * time, 100.) / 100.;
-          v1.y = mod(v1.y - 10. * time, 100.) / 100.;
-          vec2 v2 = v1;
-          v2.x += .02 * sin(sin(time) / 2.);
-          v2.y -= .02 * cos(sin(time) / 2.);
-          float d = udSegment(coords, v1, v2) - .001;
-          if (sign(d) == -1.) {
-            return 1.;
-          }
-        }
-        return 0.;
-      }
      
       vec3 getSeaColor(vec3 p, vec3 n, vec3 l, vec3 eye, vec3 dist, vec2 uv) {  
           float fresnel = clamp(1.0 - dot(n,-eye), 0.0, 1.0);
@@ -242,8 +226,6 @@
      // main
     void main() {
       vec3 color = getPixel(vUv);
-      // post
-      //gl_FragColor = vec4(vec3(isFish(vUv)), 1.);
       gl_FragColor = vec4(pow(color,vec3(0.65)), 1.0);
     }
 
@@ -259,12 +241,6 @@
 
       let uniforms;
 
-      let fishes = [];
-      let i;
-      for (i = 0; i < 100; i++){
-        fishes.push(new THREE.Vector2(Math.random() * 100, Math.random() * 100.));
-      }
-
       init();
       animate();
 
@@ -277,7 +253,6 @@
 
         uniforms = {
           time: { value: 1.0 },
-          fish_seed: {value: new THREE.Vector2()}
         };
 
         const material = new THREE.ShaderMaterial({
@@ -307,7 +282,6 @@
         requestAnimationFrame(animate);
 
         uniforms["time"].value = performance.now() / 1000;
-        uniforms["fish_seed"].value = fishes;
 
         renderer.render(scene, camera);
       }
