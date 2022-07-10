@@ -11,5 +11,8 @@ or elm-markdown https://package.elm-lang.org/packages/dillonkearns/elm-markdown/
 kramdown is used internally for jekyll https://kramdown.gettalong.org/documentation.html
 dioxus is a SPA framework in rust https://github.com/DioxusLabs/dioxus
 
+https://kit.svelte.dev/
 
-inspiration: https://suspendedreason.github.io/
+inspiration: 
+Aesthetics of : https://suspendedreason.github.io/
+Combined with the tech and rendering of : https://fantinel.dev/
