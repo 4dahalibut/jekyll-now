@@ -2,7 +2,6 @@
 layout: post
 title: Thoughts on the essay "Learning to Work" by Virginia Valian
 ---
-[Link to PDF](https://static1.squarespace.com/static/5b3a3c2596e76feeba40905e/t/5b46366570a6add65490e050/1531328102222/1977workingItOut.pdf?utm_source=pocket_saves)
 I and many of my friends have at times taken up meditation practices, or yoga practices, or other daily habits. These usually have a similar structure, where every day, for a specified amount of time, we task ourselves with honing a specific technique, gently building the muscles of the practice so we gradually but surely expand our abilities. In the 1976 essay “Learning to Work” Virginia Valian presents us with a similar structure. Instead of for a hobby though, she applies it to intellectual labor. While for many of us in knowledge professions, intellectual work is our most treasured ability to hone, most people do not set aside intentional time every day to hone their capabilities. I know I haven’t. While I have dedicated myself to dancing, or working out at times before, I’ve never developed a loving, gentle daily practice of increasing my abilities. Instead, I find myself throwing myself at tasks haphazardly, letting my whims take me where they will go. 
 
 After reading the essay, I understand another way to approach my studies. To start her essay, Virginia talks about her intense anxiety in detail, listing myriad causes for it. I have too felt anxieties around completing work, and these have too stopped me from pursuing independent projects that I chose for myself. However, after reading about Virginia’s worries, I no longer feel like mine are so large! She talks about how work should be natural, “like sex”, and any hangups surrounding it should be examined, understood, and massaged out over time. 
@@ -14,3 +13,7 @@ To further the drive towards reducing work anxiety, Virginia explores how she sa
 Creating a reliable work schedule amounts to developing a “love affair” in Virginia’s terms, with your work. If you’re constantly popping from work field to field, like I’ve done in my past, you’re never really able to commit to a long term love, which would allow one to spend the time to deepen their understanding of a specific field. Another direction to take the love affair metaphor, is that you might want to undertake secret, personal projects, projects only done as a devotion to your own self. 
 
 While I would love to be incredibly mindful or twice as embodied, I currently am more partial to deepening my ability to understand our world. For me, this is about developing a thesis, a unique opinion on how I want to make my little impact on this world. Maybe having this love affair with the process of exploration, instead of short term flings, will deepen my intellect to the extent that I’ll be able to accomplish this.
+
+
+
+[Link to PDF](https://static1.squarespace.com/static/5b3a3c2596e76feeba40905e/t/5b46366570a6add65490e050/1531328102222/1977workingItOut.pdf?utm_source=pocket_saves)

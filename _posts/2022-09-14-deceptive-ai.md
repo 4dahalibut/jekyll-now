@@ -2,7 +2,6 @@
 layout: post
 title: Summary Post on Monitoring for Deceptive AI
 ---
-This post summarizes: [This lesswrong post](https://www.lesswrong.com/posts/Km9sHjHTsBdbgwKyi/monitoring-for-deceptive-alignment)
 
 In the court of the Evil AI resistance team this week, Evan Hubinger, who is fully employed on the AI resistance team at an institute called MIRI, has come up with a plan he suggests for Big AI to follow, such as Google and OpenAI. He thinks that while these companies try to train stronger and stronger AIs, an easy thing they could do to help prevent the AIs from becoming evil is to watch for early signs of deception coming from the models. One of the ways the resistance is worried that powerful AI might exhibit evilness and badness is to make everything look hunky-dory to the people training it to not be evil, but secretly it's actually very much being evil. While the AI isn't so very good just yet at deceiving its trainers, Evan says it should be pretty easy to catch it in the act.
 
@@ -20,3 +19,5 @@ He also thinks that even if we can't see outright deceiving models, we might be 
 2. We could see models that try to give stupid answers so that you keep asking them other questions and talking with them more and taking care of them, even if you don't really care about them for themselves.
 
 In conclusion, Evan thinks that right now it's very likely that AIs won't be sly, but IMO that's when we have to start checking, is before there's a real risk.
+
+This post summarizes: [This lesswrong post](https://www.lesswrong.com/posts/Km9sHjHTsBdbgwKyi/monitoring-for-deceptive-alignment)
