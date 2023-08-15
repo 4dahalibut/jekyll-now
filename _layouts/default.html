@@ -77,8 +77,8 @@
     <script type="module">
       import * as THREE from "https://unpkg.com/three/build/three.module.js";
 
-        if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
-        }else{
+        // if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+        // }else{
 
       let camera, scene, renderer;
 
@@ -127,7 +127,7 @@
         uniforms["time"].value = performance.now() / 5000;
 
         renderer.render(scene, camera);
-      }
+      // }
       }
     </script>
     <div class="wrapper-masthead">
