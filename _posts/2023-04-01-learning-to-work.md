@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on the essay "Learning to Work" by Virginia Valian
+title: Thoughts on the essay "Learning to Work"
 ---
 I and many of my friends have at times taken up meditation practices, or yoga practices, or other daily habits. These usually have a similar structure, where every day, for a specified amount of time, we task ourselves with honing a specific technique, gently building the muscles of the practice so we gradually but surely expand our abilities. In the 1976 essay “Learning to Work” Virginia Valian presents us with a similar structure. Instead of for a hobby though, she applies it to intellectual labor. While for many of us in knowledge professions, intellectual work is our most treasured ability to hone, most people do not set aside intentional time every day to hone their capabilities. I know I haven’t. While I have dedicated myself to dancing, or working out at times before, I’ve never developed a loving, gentle daily practice of increasing my abilities. Instead, I find myself throwing myself at tasks haphazardly, letting my whims take me where they will go. 
 
