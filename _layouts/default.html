@@ -21,6 +21,7 @@
 
   <body>
 
+
     <script id="vertexShader" type="x-shader/x-vertex">
 
         varying vec2 vUv;
@@ -140,8 +141,8 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+            <a class="blinkable" href="{{ site.baseurl }}/">Blog</a>
+            <a class="blinkable" href="{{ site.baseurl }}/about">About</a>
           </nav>
         </header>
       </div>
@@ -160,5 +161,25 @@
     </div>
 
     {% include analytics.html %}
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var buttons = document.getElementsByClassName("blinkable");
+
+
+            for (var i = 0; i < buttons.length; i++) {
+                buttons[i].addEventListener("click", function(event) {
+                    event.preventDefault();  // Prevent the link from immediately navigating
+                    var targetUrl = this.href;  // Store the target URL
+
+                    this.classList.toggle("blinking");  // Toggle the blinking effect
+
+                    setTimeout(function() {
+                        window.location.href = targetUrl;  // Navigate to the target URL after a delay
+                    }, 1000);  // Delay for 1 second (1000 milliseconds). Adjust as needed.
+                });
+            }
+        });
+
+    </script>
   </body>
 </html>
