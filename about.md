@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Josh
 permalink: /about/
 ---
 
@@ -8,7 +8,7 @@ permalink: /about/
 
 
 Hello and thank you for reading my blog 😊 
-I spend a lot of time thinking about leverage, particularly leverage against climate change. Some of my interests are rock climbing, chess, [books](https://www.goodreads.com/user/show/13428134-josh-preuss), salsa dancing, guitar, and meditation. 
+I spend a lot of time thinking about leverage, particularly leverage against climate change. Some of my interests are biking around, chess, [books](https://www.goodreads.com/user/show/13428134-josh-preuss), salsa dancing, guitar, and meditation. 
 Also, I'm single! 💓
 
 
