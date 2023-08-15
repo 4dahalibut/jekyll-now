@@ -42,8 +42,9 @@ body {
   width: 100%;
   background-color: white;
   opacity: .95;
-  border-radius: 10px;
-  margin-bottom: 50px;
+  border-radius: 40px;
+  //border: 3px solid $darkGray;
+  box-shadow: 0 5px 10px $darkGray;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -52,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 
   line-height: 1.7;
-  margin: 17px 30px;
+  margin: 20px 30px;
   padding: 0;
 
 
@@ -125,8 +126,8 @@ strong, b {
 
 img {
   max-width: 100%;
-  border-radius: 6px;
-  box-shadow: 0 10px 10px $lightGray;
+  border-radius: 20px;
+  box-shadow: 0 5px 10px $lightGray;
   border: 1px solid $lightGray;
 }
 
@@ -270,9 +271,8 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
-  border-radius: 10px;
+  padding-bottom: 1em;
+  border-bottom: 2px solid $lightGray;
 }
 
 .posts > .post:last-child {

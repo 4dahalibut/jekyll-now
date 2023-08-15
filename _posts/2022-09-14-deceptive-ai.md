@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary Post on Monitoring for Deceptive AI
+title: Monitoring for Deceptive AI
 ---
 
 In the court of the Evil AI resistance team this week, Evan Hubinger, who is fully employed on the AI resistance team at an institute called MIRI, has come up with a plan he suggests for Big AI to follow, such as Google and OpenAI. He thinks that while these companies try to train stronger and stronger AIs, an easy thing they could do to help prevent the AIs from becoming evil is to watch for early signs of deception coming from the models. One of the ways the resistance is worried that powerful AI might exhibit evilness and badness is to make everything look hunky-dory to the people training it to not be evil, but secretly it's actually very much being evil. While the AI isn't so very good just yet at deceiving its trainers, Evan says it should be pretty easy to catch it in the act.
